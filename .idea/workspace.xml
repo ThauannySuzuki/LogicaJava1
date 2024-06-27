@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88bc2da3-1867-45dc-b309-310597842c49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicioJava20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosJava/EX9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2iRML1uK33BDakHIHtgIZCAg4yZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno/Documents/exercicioJava20/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88bc2da3-1867-45dc-b309-310597842c49" name="Changes" comment="" />
+      <created>1719448876999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719448876999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
